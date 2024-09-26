@@ -1,0 +1,14 @@
+C:\Mark\DataStructureAlgorithm\AlgorithmsDataStructures\AlgorithmsDataStructures\bin\Debug\net8.0\AlgorithmsDataStructures.exe
+C:\Mark\DataStructureAlgorithm\AlgorithmsDataStructures\AlgorithmsDataStructures\bin\Debug\net8.0\AlgorithmsDataStructures.deps.json
+C:\Mark\DataStructureAlgorithm\AlgorithmsDataStructures\AlgorithmsDataStructures\bin\Debug\net8.0\AlgorithmsDataStructures.runtimeconfig.json
+C:\Mark\DataStructureAlgorithm\AlgorithmsDataStructures\AlgorithmsDataStructures\bin\Debug\net8.0\AlgorithmsDataStructures.dll
+C:\Mark\DataStructureAlgorithm\AlgorithmsDataStructures\AlgorithmsDataStructures\bin\Debug\net8.0\AlgorithmsDataStructures.pdb
+C:\Mark\DataStructureAlgorithm\AlgorithmsDataStructures\AlgorithmsDataStructures\obj\Debug\net8.0\AlgorithmsDataStructures.GeneratedMSBuildEditorConfig.editorconfig
+C:\Mark\DataStructureAlgorithm\AlgorithmsDataStructures\AlgorithmsDataStructures\obj\Debug\net8.0\AlgorithmsDataStructures.AssemblyInfoInputs.cache
+C:\Mark\DataStructureAlgorithm\AlgorithmsDataStructures\AlgorithmsDataStructures\obj\Debug\net8.0\AlgorithmsDataStructures.AssemblyInfo.cs
+C:\Mark\DataStructureAlgorithm\AlgorithmsDataStructures\AlgorithmsDataStructures\obj\Debug\net8.0\AlgorithmsDataStructures.csproj.CoreCompileInputs.cache
+C:\Mark\DataStructureAlgorithm\AlgorithmsDataStructures\AlgorithmsDataStructures\obj\Debug\net8.0\AlgorithmsDataStructures.dll
+C:\Mark\DataStructureAlgorithm\AlgorithmsDataStructures\AlgorithmsDataStructures\obj\Debug\net8.0\refint\AlgorithmsDataStructures.dll
+C:\Mark\DataStructureAlgorithm\AlgorithmsDataStructures\AlgorithmsDataStructures\obj\Debug\net8.0\AlgorithmsDataStructures.pdb
+C:\Mark\DataStructureAlgorithm\AlgorithmsDataStructures\AlgorithmsDataStructures\obj\Debug\net8.0\AlgorithmsDataStructures.genruntimeconfig.cache
+C:\Mark\DataStructureAlgorithm\AlgorithmsDataStructures\AlgorithmsDataStructures\obj\Debug\net8.0\ref\AlgorithmsDataStructures.dll

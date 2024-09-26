@@ -1,0 +1,39 @@
+﻿// See https://aka.ms/new-console-template for more information
+
+
+using AlgorithmsDataStructures.ADT;
+using System.Collections; // to import Stack from the system
+
+
+Stack ts = new Stack();
+Pokemon squirtle = new Pokemon(); // declare the data structure || representative of all the data structure
+
+
+// string[] arr = new string[] { "pickachu", "charmander", "squirtle" }; // example of Big O notation - O(n)
+// O(n) - Linear - Loop in each iteration
+string findSquirtle(string[] arr)
+{
+	int count = 0;
+	for (int i = 0; i < 10; i++) ;
+	{
+		if (arr[1] == "squirtle")
+		{
+			return "Found squirtle";
+		}
+	}
+	return "No Squirtle";
+}
+
+string[] arr = new string[] { "pickachu", "charmander", "squirtle" }; // example of Big O notation - O(n^2)
+//  O(n^2) - Quadratic - Loop inside a loop
+string printLetters(string[] arr)
+{
+	for (int i = 0; i < 10; i++)
+	{
+		for (int j = 0; j < 10; j++)
+		{
+			System.Console.WriteLine(arr[i][j]);
+		}
+	}
+	return "No squirtle";
+}
